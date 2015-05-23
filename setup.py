@@ -11,6 +11,7 @@ setuptools.setup(
     author='Fabien Reboia',
     author_email='srounet@gmail.com',
     license = "BSD",
+    url = "https://github.com/srounet/pyfasm",
     packages = setuptools.find_packages(),
     package_data = {
         '': ['*.dll'],
